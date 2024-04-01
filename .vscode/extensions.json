@@ -1,0 +1,23 @@
+{
+    "recommendations": [
+        "pflannery.vscode-versionlens",
+        "tal7aouy.rainbow-bracket",
+        "christian-kohler.path-intellisense",
+        "christian-kohler.npm-intellisense",
+        "swellaby.node-pack",
+        "ms-edgedevtools.vscode-edge-devtools",
+        "davidanson.vscode-markdownlint",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "coolspy3.hmmm-language-support",
+        "felipecaputo.git-project-manager",
+        "dart-code.flutter",
+        "github.copilot-chat",
+        "github.copilot",
+        "github.vscode-github-actions",
+        "dbaeumer.vscode-eslint",
+        "ms-azuretools.vscode-docker",
+        "firefox-devtools.vscode-firefox-debug",
+        "dart-code.dart-code",
+        "maziac.binary-file-viewer"
+    ]
+}
