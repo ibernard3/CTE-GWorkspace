@@ -12,12 +12,12 @@
         "felipecaputo.git-project-manager",
         "dart-code.flutter",
         "github.copilot-chat",
-        "github.copilot",
         "github.vscode-github-actions",
         "dbaeumer.vscode-eslint",
         "ms-azuretools.vscode-docker",
         "firefox-devtools.vscode-firefox-debug",
         "dart-code.dart-code",
-        "maziac.binary-file-viewer"
+        "maziac.binary-file-viewer",
+        "github.copilot"
     ]
 }
